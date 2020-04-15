@@ -1,4 +1,4 @@
-## All samples use the Node 8 runtime with ES2017 syntax.
+# All samples use the Node 8 runtime with ES2017 syntax.
 
 # Cloud Functions for Firebase Sample Library
 
